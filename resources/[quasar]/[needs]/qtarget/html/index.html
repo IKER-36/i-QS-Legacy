@@ -1,0 +1,20 @@
+<html>
+  <head>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css">
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs/dist/cdn.min.js"></script>
+  </head>
+  <body x-data="main" x-show="display" x-init="listen()">
+	<div class="target-wrapper">
+	  <i :class="eyeActive ? 'target-eye-active' : 'target-eye-default'" class="target-eye fas fa-eye"></i>
+	  <div class="target-label-wrapper">
+		<div class="target-label">
+            <template x-for="value, key in target" :key="key">
+                <div @click="executeTarget(key)" class='target-item' id=''><i :class="value.icon" class='fa-fw fa-pull-left target-icon'></i><span x-text="value.label"></span></div>
+            </template>
+        </div>
+	  </div>
+	</div>
+  </body>
+  <script src="./js/app.js"></script>
+</html>

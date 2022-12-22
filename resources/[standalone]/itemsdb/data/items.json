@@ -1,0 +1,429 @@
+["alive_chicken"] = {
+    ["name"] = "alive_chicken",
+    ["label"] = "Living chicken",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "alive_chicken.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["bandage"] = {
+    ["name"] = "bandage",
+    ["label"] = "Bandage",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "bandage.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["blowpipe"] = {
+    ["name"] = "blowpipe",
+    ["label"] = "Blowtorch",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "blowpipe.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["bread"] = {
+    ["name"] = "bread",
+    ["label"] = "Bread",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "bread.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["cannabis"] = {
+    ["name"] = "cannabis",
+    ["label"] = "Cannabis",
+    ["weight"] = 3,
+    ["type"] = "item",
+    ["image"] = "cannabis.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["carokit"] = {
+    ["name"] = "carokit",
+    ["label"] = "Body Kit",
+    ["weight"] = 3,
+    ["type"] = "item",
+    ["image"] = "carokit.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["carotool"] = {
+    ["name"] = "carotool",
+    ["label"] = "Tools",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "carotool.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["clothe"] = {
+    ["name"] = "clothe",
+    ["label"] = "Cloth",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "clothe.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["copper"] = {
+    ["name"] = "copper",
+    ["label"] = "Copper",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "copper.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["cutted_wood"] = {
+    ["name"] = "cutted_wood",
+    ["label"] = "Cut wood",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "cutted_wood.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["diamond"] = {
+    ["name"] = "diamond",
+    ["label"] = "Diamond",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "diamond.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["essence"] = {
+    ["name"] = "essence",
+    ["label"] = "Gas",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "essence.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["fabric"] = {
+    ["name"] = "fabric",
+    ["label"] = "Fabric",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "fabric.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["fish"] = {
+    ["name"] = "fish",
+    ["label"] = "Fish",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "fish.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["fixkit"] = {
+    ["name"] = "fixkit",
+    ["label"] = "Repair Kit",
+    ["weight"] = 3,
+    ["type"] = "item",
+    ["image"] = "fixkit.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["fixtool"] = {
+    ["name"] = "fixtool",
+    ["label"] = "Repair Tools",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "fixtool.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["gazbottle"] = {
+    ["name"] = "gazbottle",
+    ["label"] = "Gas Bottle",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "gazbottle.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["gold"] = {
+    ["name"] = "gold",
+    ["label"] = "Gold",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "gold.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["iron"] = {
+    ["name"] = "iron",
+    ["label"] = "Iron",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "iron.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["marijuana"] = {
+    ["name"] = "marijuana",
+    ["label"] = "Marijuana",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "marijuana.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["medikit"] = {
+    ["name"] = "medikit",
+    ["label"] = "Medikit",
+    ["weight"] = 2,
+    ["type"] = "item",
+    ["image"] = "medikit.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["packaged_chicken"] = {
+    ["name"] = "packaged_chicken",
+    ["label"] = "Chicken fillet",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "packaged_chicken.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["packaged_plank"] = {
+    ["name"] = "packaged_plank",
+    ["label"] = "Packaged wood",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "packaged_plank.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["petrol"] = {
+    ["name"] = "petrol",
+    ["label"] = "Oil",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "petrol.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["petrol_raffin"] = {
+    ["name"] = "petrol_raffin",
+    ["label"] = "Processed oil",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "petrol_raffin.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["phone"] = {
+    ["name"] = "phone",
+    ["label"] = "Phone",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "phone.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["radio"] = {
+    ["name"] = "radio",
+    ["label"] = "Radio",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "radio.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["slaughtered_chicken"] = {
+    ["name"] = "slaughtered_chicken",
+    ["label"] = "Slaughtered chicken",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "slaughtered_chicken.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["stone"] = {
+    ["name"] = "stone",
+    ["label"] = "Stone",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "stone.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["washed_stone"] = {
+    ["name"] = "washed_stone",
+    ["label"] = "Washed stone",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "washed_stone.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["water"] = {
+    ["name"] = "water",
+    ["label"] = "Water",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "water.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["wood"] = {
+    ["name"] = "wood",
+    ["label"] = "Wood",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "wood.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
+["wool"] = {
+    ["name"] = "wool",
+    ["label"] = "Wool",
+    ["weight"] = 1,
+    ["type"] = "item",
+    ["image"] = "wool.png",
+    ["unique"] = false,
+    ["useable"] = true,
+    ["shouldClose"] = false,
+    ["combinable"] = nil,
+    ["description"] = ""
+},
+
